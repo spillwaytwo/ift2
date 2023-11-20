@@ -1,0 +1,5 @@
+I've scraped every frame of the launch, starting at the first frame showing T-10:00:00, and ending after Starship loses telemetry.
+
+The telemetry here is unedited. Propellant levels were estimated from the webcasts' propellant bars, and aren't very accurate. Speed, altitude, and engine counts are mostly accurate---most errors are in Starship telemetry before stage separation, as the graphics were faded then, and after Booster RUD for the same reasons.
+
+The Boosters' engine numbering is, as far as I know, accurate. E1 on the booster points towards the tower, and on the webcast, E1 is pointing bottom-right, 120° clockwise from up. I'm not sure about the ships' engine numbers, but it's only asymmetrical for somewhere around a single telemetry frame. I assumed that on the webcast, E1 is pointed 60° counter-clockwise from up. Note that the webcast cannot have shown booster and ship engines from the same orientation! One of the ships' vacuum engines points at the shielded side of Starship, but on the booster, no engine points towards towards that direction---so the engine graphics must be 60° off from each other.
